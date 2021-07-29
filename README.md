@@ -1,3 +1,3 @@
 - 👋 Hi, I’m sowrab
-- 👀 I’m interested in ml, data science and nlp
+- 👀 I’m interested in ml, data science, AI and nlp.
 - 🌱 I’m currently learning machine learning and doing undergraduation in computer science 
